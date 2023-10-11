@@ -7,7 +7,7 @@
     display: none;
 }
 
-input[type=text] {
+.post-php.post-type-dialog-chat input[type=text] {
     width: 100%;
 }
 

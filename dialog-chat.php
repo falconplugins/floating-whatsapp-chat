@@ -18,9 +18,9 @@
  * @since    1.0.0
  *
  * @wordpress-plugin
- * Plugin Name:       DialogChat
- * Plugin URI:        https://falconplugins.store/plugins/dialog-chat
- * Description:       Enable WhatsApp messaging to your WordPress website.
+ * Plugin Name:       Floating WhatsApp Chat - Falcon
+ * Plugin URI:        https://falconplugins.store/plugins/floating-whatsapp-chat
+ * Description:       Enable WhatsApp chat via a floating button on your website.
  * Version:           1.0.0
  * Author:            Falcon Plugins
  * Author URI:        https://falconplugins.store/
@@ -87,8 +87,6 @@ if (! defined('DC_WHATSAPP_DEFAULT_SETTINGS') ) {
 
 /**
  * Currently plugin version.
- * Start at version 1.0.0 and use SemVer - https://semver.org
- * Rename this for your plugin and update it as you release new versions.
  */
 define('DIALOG_CHAT_VERSION', '1.0.0');
 

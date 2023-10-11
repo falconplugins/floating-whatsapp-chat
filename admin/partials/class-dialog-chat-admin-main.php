@@ -262,9 +262,9 @@ class Dialog_Chat_Admin_Main
 
         // Set UI labels for Custom Post Type
         $labels = array(
-        'name'                  => _x('DialogChat', 'Post Type General Name', 'dialog-chat'), //phpcs:ignore
-        'singular_name'         => _x('DialogChat', 'Post Type Singular Name', 'dialog-chat'), //phpcs:ignore
-        'menu_name'             => __('DialogChat', 'dialog-chat'),
+        'name'                  => _x('WhatsApp Chat', 'Post Type General Name', 'dialog-chat'), //phpcs:ignore
+        'singular_name'         => _x('WhatsApp Chat', 'Post Type Singular Name', 'dialog-chat'), //phpcs:ignore
+        'menu_name'             => __('WhatsApp Chat', 'dialog-chat'),
         'parent_item_colon'     => __('Parent Contact', 'dialog-chat'),
         'all_items'             => __('All Contacts', 'dialog-chat'),
         'view_item'             => __('View Contact', 'dialog-chat'),
